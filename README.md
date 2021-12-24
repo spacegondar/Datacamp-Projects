@@ -1,1 +1,1 @@
-# Datacamp SQL And Python Projects
+# Datacamp Projects
